@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - entry point
- * owned by Bwave/Bright Daniel
+ * alx is amazing
  * Description: Prints diagonals
  *@size: size of the triangle
  * Return: void
