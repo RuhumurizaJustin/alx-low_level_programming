@@ -16,7 +16,9 @@ int shadia;
 for (isaac = 0; isaac < 8; isaac++)
 {
 for (shadia = 0; shadia < 8; shadia++)
+{
 _putchar(a[isaac][shadia]);
+}
 _putchar('\n');
 }
 }
