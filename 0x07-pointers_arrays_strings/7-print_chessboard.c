@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * _chessboard - a function that prints the chessboard
+ * print_chessboard - a function that prints the chessboard
  * @a: declared one
  *
  * Return: nothing
